@@ -1,0 +1,45 @@
+.elementor-95 .elementor-element.elementor-element-581a7ab:not(.elementor-motion-effects-element-type-background), .elementor-95 .elementor-element.elementor-element-581a7ab > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://demo.phlox.pro/new-free-shop/wp-content/uploads/sites/46/2018/07/customers-and-staff-in-a-busy-clothes-shop.jpg");background-position:center center;background-size:cover;}.elementor-95 .elementor-element.elementor-element-581a7ab{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:120px;margin-bottom:0px;padding:80px 0px 110px 0px;}.elementor-95 .elementor-element.elementor-element-581a7ab > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-95 .elementor-element.elementor-element-80eeeae .aux-widget-inner{text-align:center;}.elementor-95 .elementor-element.elementor-element-80eeeae .aux-modern-heading-primary{color:#aaaaaa;font-family:"Poppins", Sans-serif;font-size:16px;font-weight:500;line-height:25px;margin:0px 0px 14px 0px;}.elementor-95 .elementor-element.elementor-element-80eeeae .aux-modern-heading-secondary{color:#ffffff;font-family:"Poppins", Sans-serif;font-size:28px;font-weight:600;line-height:42px;}/* Start custom CSS for aux_mailchimp, class: .elementor-element-989d929 */.elementor-95 .elementor-element.elementor-element-989d929 .aux-shop2-subscribe-wrapper {
+    display: inline-block;
+    position: relative;
+    transform: translateX(-50%);
+    left: 50%;
+    
+}
+.elementor-95 .elementor-element.elementor-element-989d929 .aux-shop2-subscribe-wrapper input[type="email"] {
+    max-width: 330px;
+    border-bottom: none;
+    background: #FFF;
+    border-radius: 168px;
+    width: 330px;
+    color: #AAA;
+    font-size: 14px;
+    padding: 16px 90px 16px 26px !important;
+    border: none;
+}
+
+.elementor-95 .elementor-element.elementor-element-989d929 .aux-shop2-subscribe-wrapper input[type="submit"] {
+    background: none;
+    color: #3d3d3d;
+    max-width: none;
+    width: auto;
+    padding: 13px 0px;
+    margin: 0;
+    font-size: 15px;
+    font-family: "Raleway";
+    font-weight: 600;
+    position: absolute;
+    right: 26px;
+    top: 7px;
+}
+.elementor-95 .elementor-element.elementor-element-989d929 .aux-shop2-subscribe-wrapper input[type="email"]::placeholder {
+    font-style: normal;
+    color: #AAA;
+}
+.elementor-95 .elementor-element.elementor-element-989d929 .aux-shop2-subscribe-wrapper input[type="email"]:-ms-input-placeholder {
+    font-style: normal;
+    color: #AAA;
+}
+.elementor-95 .elementor-element.elementor-element-989d929 .aux-shop2-subscribe-wrapper input[type="email"]::-ms-input-placeholder {
+    font-style: normal;
+    color: #AAA;
+}/* End custom CSS */

@@ -1,0 +1,23 @@
+.elementor-99 .elementor-element.elementor-element-7e405480{margin-top:150px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-99 .elementor-element.elementor-element-6d428ca9 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-99 .elementor-element.elementor-element-5cc0de0c .aux-widget-inner{text-align:center;}.elementor-99 .elementor-element.elementor-element-5cc0de0c .aux-modern-heading-primary{font-family:"Poppins", Sans-serif;font-size:38px;font-weight:500;line-height:57px;margin:0px 0px 10px 0px;}.elementor-99 .elementor-element.elementor-element-5cc0de0c .aux-modern-heading-secondary{color:#BBB;font-family:"Poppins", Sans-serif;font-size:18px;font-weight:500;line-height:27px;margin:0px 0px 50px 0px;}.elementor-99 .elementor-element.elementor-element-5cc0de0c > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-99 .elementor-element.elementor-element-2282505d .woocommerce-loop-product__title{font-family:"Poppins", Sans-serif;font-size:18px;font-weight:500;line-height:30px;margin-bottom:5px;}/* Start custom CSS for aux_recent_product, class: .elementor-element-2282505d */.elementor-99 .elementor-element.elementor-element-2282505d .price {
+    display: block;
+    margin-bottom: 15px;
+    font-size: 1.125em;
+    font-weight: 500;
+    line-height: 1.6875em;
+    font-family: "poppins";
+}
+
+.elementor-99 .elementor-element.elementor-element-2282505d .price del {
+    margin-left: 5px;
+    font-size: 14px;
+    line-height: 1.3125em;
+    color: #AAA;
+}
+
+.elementor-99 .elementor-element.elementor-element-2282505d .aux-widget-recent-products .aux-recent-product-item {
+    margin-bottom: 50px;
+}
+
+.elementor-99 .elementor-element.elementor-element-2282505d .aux-star-rating  .woocommerce-review-link {
+    display: none;
+}/* End custom CSS */

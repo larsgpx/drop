@@ -1,0 +1,48 @@
+.elementor-118 .elementor-element.elementor-element-223feba > .elementor-container{max-width:800px;}.elementor-118 .elementor-element.elementor-element-69c7fc0 .aux-widget-inner{text-align:center;}.elementor-118 .elementor-element.elementor-element-69c7fc0 .aux-modern-heading-primary{color:#111111;font-family:"Poppins", Sans-serif;font-size:52px;font-weight:300;letter-spacing:15px;margin:0px 0px 55px 0px;}.elementor-118 .elementor-element.elementor-element-69c7fc0 .aux-modern-heading-description{font-family:"Poppins", Sans-serif;font-size:16px;font-weight:400;line-height:24px;margin:0px 0px 0px 0px;}.elementor-118 .elementor-element.elementor-element-69c7fc0{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-118 .elementor-element.elementor-element-8240bf8 > .elementor-widget-container{margin:53px 0px 0px 0px;}.elementor-118 .elementor-element.elementor-element-8240bf8{animation-delay:150ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-118 .elementor-element.elementor-element-dfb842c > .elementor-widget-container{margin:55px 0px 0px 0px;}.elementor-118 .elementor-element.elementor-element-dfb842c{animation-delay:300ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-118 .elementor-element.elementor-element-66b7d517:not(.elementor-motion-effects-element-type-background), .elementor-118 .elementor-element.elementor-element-66b7d517 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://demo.phlox.pro/new-free-shop/wp-content/uploads/sites/46/2018/07/customers-and-staff-in-a-busy-clothes-shop.jpg");background-position:center center;background-size:cover;}.elementor-118 .elementor-element.elementor-element-66b7d517{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:120px;margin-bottom:0px;padding:80px 0px 110px 0px;}.elementor-118 .elementor-element.elementor-element-66b7d517 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-118 .elementor-element.elementor-element-2d8e1d7a .aux-widget-inner{text-align:center;}.elementor-118 .elementor-element.elementor-element-2d8e1d7a .aux-modern-heading-primary{color:#aaaaaa;font-family:"Poppins", Sans-serif;font-size:16px;font-weight:500;line-height:25px;margin:0px 0px 14px 0px;}.elementor-118 .elementor-element.elementor-element-2d8e1d7a .aux-modern-heading-secondary{color:#ffffff;font-family:"Poppins", Sans-serif;font-size:28px;font-weight:600;line-height:42px;}@media(max-width:767px){.elementor-118 .elementor-element.elementor-element-e492f68 > .elementor-element-populated{padding:0px 35px 0px 35px;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-69c7fc0 */.elementor-118 .elementor-element.elementor-element-69c7fc0 .aux-modern-heading-description {
+    text-align: left;
+}/* End custom CSS */
+/* Start custom CSS for aux_mailchimp, class: .elementor-element-4a532401 */.elementor-118 .elementor-element.elementor-element-4a532401 .aux-shop2-subscribe-wrapper {
+    display: inline-block;
+    position: relative;
+    transform: translateX(-50%);
+    left: 50%;
+    
+}
+.elementor-118 .elementor-element.elementor-element-4a532401 .aux-shop2-subscribe-wrapper input[type="email"] {
+    max-width: 330px;
+    border-bottom: none;
+    background: #FFF;
+    border-radius: 168px;
+    width: 330px;
+    color: #AAA;
+    font-size: 14px;
+    padding: 16px 90px 16px 26px !important;
+    border: none;
+}
+
+.elementor-118 .elementor-element.elementor-element-4a532401 .aux-shop2-subscribe-wrapper input[type="submit"] {
+    background: none;
+    color: #3d3d3d;
+    max-width: none;
+    width: auto;
+    padding: 13px 0px;
+    margin: 0;
+    font-size: 15px;
+    font-family: "Raleway";
+    font-weight: 600;
+    position: absolute;
+    right: 26px;
+    top: 7px;
+}
+.elementor-118 .elementor-element.elementor-element-4a532401 .aux-shop2-subscribe-wrapper input[type="email"]::placeholder {
+    font-style: normal;
+    color: #AAA;
+}
+.elementor-118 .elementor-element.elementor-element-4a532401 .aux-shop2-subscribe-wrapper input[type="email"]:-ms-input-placeholder {
+    font-style: normal;
+    color: #AAA;
+}
+.elementor-118 .elementor-element.elementor-element-4a532401 .aux-shop2-subscribe-wrapper input[type="email"]::-ms-input-placeholder {
+    font-style: normal;
+    color: #AAA;
+}/* End custom CSS */
